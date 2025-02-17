@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE_Project/_MigratePrj/MigratePrj/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/MC_Rig.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/CR_Mannequin_BasicFootIK1.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/CR_MC2_IK.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget/ABP_MannyMCVer2.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/MC_Rig_Skeleton.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget2/MM_Fall_Loop.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget2/MM_Jump.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget2/MM_Land.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget/Idle_mixamo_com.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget2/MF_Idle.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RJ/X4TX8K6M4CA7CHB6061LTS.uasset",
+				"D:/UE_Project/_MigratePrj/MigratePrj/Content/_Social/_MCVer2/Retarget2/MC_Idle2.uasset"
 			]
 		}
 	]
