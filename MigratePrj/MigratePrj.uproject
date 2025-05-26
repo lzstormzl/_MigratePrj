@@ -10,11 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "FoliageInteraction_Plugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/c9ef5b2b-33f2-4601-b537-8e3a099af44c"
 		}
 	]
 }
